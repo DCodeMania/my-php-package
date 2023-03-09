@@ -1,0 +1,17 @@
+{
+    "name": "dcodemania/sahil",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dcodemania\\Sahil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sahil Kumar"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
