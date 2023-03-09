@@ -1,6 +1,6 @@
 <?php
 
-namespace Dcodemania\Sahil;
+namespace Wolfmania\Dcodemania;
 
 class Requests {
   // curl get request method

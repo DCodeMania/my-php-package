@@ -1,17 +1,28 @@
 {
-    "name": "dcodemania/sahil",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Dcodemania\\Sahil\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Sahil Kumar"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+	"name": "wolfmania/dcodemania",
+	"type": "library",
+	"license": "MIT",
+	"description": "DcodeMania is a PHP library for making simple HTTP Requests.",
+	"keywords": [
+		"http",
+		"request",
+		"curl",
+		"php",
+		"library",
+		"wolfmania",
+		"dcodemania",
+		"sahil kumar"
+	],
+	"autoload": {
+		"psr-4": {
+			"Wolfmania\\Dcodemania\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Sahil Kumar"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {}
 }
